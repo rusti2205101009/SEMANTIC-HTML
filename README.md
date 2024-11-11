@@ -1,13 +1,13 @@
 # SEMANTIC-HTML
 Latihan Praktikum 1 Semantic HTML
 
-## Latihan 1 : Semantic HTML
+## Latihan 1 : Semantic HTML <br>
 1. **Menganalisis Kode index.html** <br>
-  Semantic HTML adalah elemen-elemen di HTML yang dapat menggantikan fungsi div berserta atributnya, sehingga baris kode menjadi    lebih ringkas.
+  Semantic HTML adalah elemen-elemen di HTML yang dapat menggantikan fungsi div berserta atributnya, sehingga baris kode menjadi    lebih ringkas. <br>
   a. **Revisi yang dilakukan dari modul** <br>
-    Revisi yang dilakukan adalah pada struktur dasar HTML yaitu penambahan tag html, tag head berserta tag yang ada di dalamnya       seperti tag meta,title, link. Struktur dasar HTML adalah elemen yang harus ada didalam kode program HTML yang merupakan           pembentuk suatu dokumen atau website. Jika tidak lengkap maka website yang terbentuk juga tidak akan sesuai dengan yang           diharapkan. 
+    Revisi yang dilakukan adalah pada struktur dasar HTML yaitu penambahan tag html, tag head berserta tag yang ada di dalamnya       seperti tag meta,title, link. Struktur dasar HTML adalah elemen yang harus ada didalam kode program HTML yang merupakan           pembentuk suatu dokumen atau website. Jika tidak lengkap maka website yang terbentuk juga tidak akan sesuai dengan yang           diharapkan. <br>
   b. **Penjelasan kode index.html** <br>
-     => **Struktur dasar HTML** terdiri dari tag DOCTYPE, tag html, tag head dan tag body sebagai tempat konten seluruh isi web.
+     => **Struktur dasar HTML** terdiri dari tag DOCTYPE, tag html, tag head dan tag body sebagai tempat konten seluruh isi web.<br>
      => **tag header** yang mendefinisikan bagian pembuka atau kepala dari halaman yang dibuat. Di dalam tag header ada tag h1            sebagai judul utama dari halam yang dibuat.
      => **tag nav** yang berfungsi untuk mengelompokkan bagian navigasi di halaman web seperti Home, Pengertian, Kesimpulan. Isi          bagian navigasi ini di bungkus dengan tag ul untuk membentuk daftar menu navigasi tetapi dengan tidak terurut.
      => **tag section** yang mendefinisikan bagian utama konten halaman web.
