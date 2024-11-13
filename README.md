@@ -1,6 +1,8 @@
 # SEMANTIC-HTML
 Latihan Praktikum 1 Semantic HTML
 
+## Rusti Dewi Welasih/2205101009/5B TIF
+
 ## Latihan 1 : Semantic HTML <br>
 1. **Menganalisis Kode index.html** <br>
   Semantic HTML adalah elemen-elemen di HTML yang dapat menggantikan fungsi div berserta atributnya, sehingga baris kode menjadi    lebih ringkas. <br>
